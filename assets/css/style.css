@@ -12,17 +12,18 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 50em;
+    width: 20%;
     background-color: rgb(251, 249, 249);
     min-height: 100vh;
 }
 
 .cuerpo{
     display: flex;
+    width: 80%;
     align-items: center center;
    justify-content: center;
    flex-direction: column;
-   min-width: 191vh;
+   min-height: 100vh;
    background-color: #e8ebe4;
 }
 
